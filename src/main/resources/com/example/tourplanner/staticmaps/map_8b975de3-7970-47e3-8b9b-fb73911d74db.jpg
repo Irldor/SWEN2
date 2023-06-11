@@ -1,0 +1,1 @@
+{"fault":{"faultstring":"Unable to identify proxy for host: open.mapquestapi.com:80 and url: \/staticmap\/v5\/map","detail":{"errorcode":"messaging.adaptors.http.flow.ApplicationNotFound"}}}
